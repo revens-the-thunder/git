@@ -3,10 +3,10 @@
 $ git init	-	Initialized empty Git repository
 
 
-$ git config --global user.name "mashfiq-rayhan"
+$ git config --global user.name "user-name"
 
 
-$ git config --global user.email "mashfiq.rayhan.ovi@gmail.com"
+$ git config --global user.email "user.email@address.com"
  
 $ git add index.html
 
@@ -31,7 +31,7 @@ $ git checkout master
 $ git merge authentication
 
 
-$ git remote add origin https://github.com/mashfiq-rayhan/git.git
+$ git remote add origin http-link-of-origin
 
 
 $ git remote
